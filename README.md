@@ -36,7 +36,7 @@ Run the notebook step by step to build, train, and evaluate the model.
 
 international-airline-passengers.csv: Contains data on international airline passenger numbers from 1949 to 1960.
 
-Data link : https://www.kaggle.com/datasets/andreazzini/international-airline-passengers
+Dataset link : https://www.kaggle.com/datasets/andreazzini/international-airline-passengers
 
 <h2>Model</h2>
 
